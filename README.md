@@ -9,12 +9,12 @@
 
 1) Clone โปรเจกต์
 
-2) ติดตั้ง Backend
+2) ติดตั้งและรัน Backend
 cd backend
 npm install
-npm start
+node server.js
 
-3)ติดตั้ง Frontend
+3) ติดตั้งและรัน Frontend
 cd frontend
 npm install
 npm start

@@ -1,5 +1,5 @@
 
-#โปรเจกต์นี้ประกอบด้วย 2 ส่วนหลัก:
+# โปรเจกต์นี้ประกอบด้วย 2 ส่วนหลัก:
 - **Backend** (Node.js + Express + MySQL)
 - **Frontend** (React + Bootstrap)
 

@@ -77,8 +77,3 @@ cd frontend
 npm install
 npm start
 ```
-
----
-
-✅ Backend รันที่: **http://localhost:5000**  
-✅ Frontend รันที่: **http://localhost:3000**
